@@ -1,0 +1,17 @@
+---
+:id: 78927596
+:submitters:
+- :name: Meer Wu
+  :email: meerwu@ischool.berkeley.edu
+- :name: Hannah Chea
+  :email: cheahannah@berkeley.edu
+- :name: Bridget Nix
+  :email: nixb17@bishopodowd.org
+- :name: Danny Ticknor
+  :email: dannyticknor@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-11 00:11:00.686391000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-10 17:11:00.686391000 Z
+:status: processed
